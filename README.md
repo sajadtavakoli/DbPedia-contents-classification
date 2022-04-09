@@ -10,5 +10,7 @@ This dataset has been already split into training and test sets. To classify DbP
 
 # Requirements
 Python > 3
+
 Tensorflow == 1.15 
+
 NLTK
